@@ -25,5 +25,6 @@
 	<h2><a href="https://gcshb.github.io/gtxy" target="_blank">1.古田初中校园网</a></h2>
 	<h2><a href="https://gcshb.github.io/sj" target="_blank">2.我的第一个js程序</a></h2>
 	<h2><a href="https://gcshb.github.io/nian" target="_blank">3.年龄计算器</a></h2>
+	<h2><a href="https://gcshb.github.io/xin" target="_blank">4.流心雨</a></h2>
 	</div>
 </body>
