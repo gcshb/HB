@@ -27,7 +27,7 @@
 	<h2><a href="https://gcshb.github.io/nian" target="_blank">3.年龄计算器</a></h2>
 	<h2><a href="https://gcshb.github.io/xin" target="_blank">4.流心雨</a></h2>
 	<h2><a href="https://gcshb.github.io/-" target="_blank">5.爱心</a></h2>
-	<h2><a href="https://gcshb.github.io/--" target="_blank"6.爱心2</a></h2>
+<h2><a href="https://gcshb.github.io/--" target="_blank">6.爱心2</a></h2>
 	</div>
 	
 </body>
