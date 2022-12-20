@@ -30,11 +30,26 @@
 	<h2><a href="https://gcshb.github.io/wzq" target="_blank">5.五子棋</a></h2>
 	<h2><a href="https://gcshb.github.io/js" target="_blank">6.js例子效果</a></h2>
 	<h2><a href="https://gcshb.github.io/cs" target="_blank">7.测试设备性能</a></h2>
-	<h2><a href="https://gcshb.github.io/cl" target="_blank">扫雷</a></h2>
+	<h2><a href="https://gcshb.github.io/cl" target="_blank">8.扫雷</a></h2>
 	
-	<h2><a href="https://gcshb.github.io/bbq" target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/wzq" target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/wzq" target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/tj" target="_blank">9.旋转太极</a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
+	
 	
 	
 	</div>
