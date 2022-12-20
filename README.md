@@ -38,6 +38,7 @@
 	<h2><a href="https://gcshb.github.io/mf" target="_blank">11.魔方</a></h2>
 	<h2><a href="https://gcshb.github.io/ltxt" target="_blank">12.聊天系统（初代草图）</a></h2>
 	<h2><a href="https://gcshb.github.io/jsq" target="_blank">13.计算器</a></h2>
+	<h2><a href="https://user-images.githubusercontent.com/119094998/208670220-5248b1f2-d3fe-4bac-8fd8-6a947f49a9eb.jpg" target="_blank">14.照片</a></h2>
 	<h1>站外网站推荐</h1>
 	<h2><a href="https://ygdy8.com" target="_blank">电影天堂（广告有亿点多，但是可以下载电影）</a></h2>
 	<h2><a href="https://wannengrun.net/zh/" target="_blank">万能命令</a></h2>
