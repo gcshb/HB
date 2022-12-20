@@ -46,7 +46,7 @@
 	<h2><a href="http://m.1010jiajiao.com/" target="_blank">青夏教育</a></h2>
 	<h2><a href="https://www.dbbqb.com/" target="_blank">逗逼拯救世界</a></h2>
   <h2><a href="https://www.dbbqb.com/" target="_blank">逗逼拯救</a></h2>
-		
+	<p>彬彬出品必属精品</p>
 	
 		</div>
    
