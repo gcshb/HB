@@ -34,7 +34,7 @@
 	<h2><a href="https://gcshb.github.io/cs" target="_blank">7.测试设备性能</a></h2>
 	<h2><a href="https://gcshb.github.io/cl" target="_blank">8.扫雷</a></h2>
 	<h2><a href="https://gcshb.github.io/tj" target="_blank">9.旋转太极</a></h2>
-	<h2><a href="https://user-images.githubusercontent.com/119094998/208632249-1b2dab70-0da2-40df-90db-dac550b7238b.jpg" target="_blank">照片</a></h2>
+	<h2><a href="https://user-images.githubusercontent.com/119094998/208632249-1b2dab70-0da2-40df-90db-dac550b7238b.jpg" target="_blank">10.照片</a></h2>
 	<h2><a href="https://gcshb.github.io/mf" target="_blank">11.魔方</a></h2>
 	<h1>站外网站推荐</h1>
 	<h2><a href="https://ygdy8.com" target="_blank">电影天堂（广告有亿点多，但是可以下载电影）</a></h2>
