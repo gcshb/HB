@@ -1,9 +1,11 @@
 <head>
 <meta charset="utf-8">
-<title></title>
+<title>彬彬的网站</title>
 	<style>
 		
-		
+	/*
+笑死，看什么源码，源码好看么.
+	*/	
 		
 		
 	img{
@@ -33,26 +35,20 @@
 	<h2><a href="https://gcshb.github.io/cl" target="_blank">8.扫雷</a></h2>
 	
 	<h2><a href="https://gcshb.github.io/tj" target="_blank">9.旋转太极</a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	<h2><a href="https://gcshb.github.io/  " target="_blank"></a></h2>
-	
-	
+	<h2><a href="https://user-images.githubusercontent.com/119094998/208632249-1b2dab70-0da2-40df-90db-dac550b7238b.jpg" target="_blank"></a>照片</h2>
+
+	<h1>站外网站推荐</h1>
+	<h2><a href="https://ygdy8.com" target=_blank></a>电影天堂（广告有亿点多，但是可以下载电影）</h2>
+	<h2><a href="https://wannengrun.net/zh/" target=_blank>万能命令</a><h2>
+	<h2><a href="https://http://listen1.github.io/listen1/" target="_blank">Listen 1 音乐播放器</a></h2>
+	<h2><a href="https://www.fangpi.net/" target=_blank>放屁音乐网</a><h2>
+	<h2><a href="https://www.githubs.cn/" target=_blank>github中文社区</a><h2>
+	<h2><a href="https://www.bookben.net/" target=_blank>书本网</a><h2>
+	<h2><a href="https://bigjpg.com/" target=_blank>AI照片放大</a><h2>
+	<h2><a href="http://m.1010jiajiao.com/" target=_blank>青夏教育</a><h2>
+	<h2><a href="https://www.dbbqb.com/" target=_blank>逗逼拯救世界</a><h2>
+	<h2><a href="" target=_blank></a><h2>
 	
 	</div>
-	
 	
 </body>
