@@ -28,9 +28,8 @@
 	
 	<h2><a href="https://gcshb.github.io/bbq" target="_blank">4.表白墙</a></h2>
 	<h2><a href="https://gcshb.github.io/wzq" target="_blank">5.五子棋</a></h2>
-	<h2><a href="https://gcshb.github.io/nhsb" target="_blank">你好世界</a></h2>
-	<h2><a href="https://gcshb.github.io/js" target="_blank">js例子效果</a></h2>
-	<h2><a href="https://gcshb.github.io/sj" target="_blank"></a></h2>
+	<h2><a href="https://gcshb.github.io/js" target="_blank">6.js例子效果</a></h2>
+	<h2><a href="https://gcshb.github.io/cs" target="_blank">7.测试设备性能</a></h2>
 	<h2><a href="https://gcshb.github.io/nian" target="_blank"></a></h2>
 	
 	<h2><a href="https://gcshb.github.io/bbq" target="_blank"></a></h2>
