@@ -12,7 +12,7 @@
 	
 	
 		 <ul id="myUL">
-		 <li><h1><a href="#" target="_blank">站内网站</a></h1> </li><br>	 
+		 <li><h1><a href="#"></a>站内网站</h1> </li><br>	 
 	  <li><h2 align="center"><a href="https://gcshb.github.io/gtxy" target="_blank">1.古田初中校园网</a></h2></li>
 	  <li><h2 align="center"><a href="https://gcshb.github.io/sj" target="_blank">2.我的第一个js程序</a></h2></li>
 	  <li><h2 align="center"><a href="https://gcshb.github.io/nian" target="_blank">3.年龄计算器</a></h2></li>
@@ -27,7 +27,7 @@
 	  <li><h2 align="center"><a href="https://gcshb.github.io/ltxt" target="_blank">12.聊天系统（初代草图）</a></h2></li>
 	  <li><h2 align="center"><a href="https://gcshb.github.io/jsq" target="_blank">13.计算器</a></h2></li>
 	 <li><h2 align="center"><a href="https://user-images.githubusercontent.com/119094998/208670220-5248b1f2-d3fe-4bac-8fd8-6a947f49a9eb.jpg" target="_blank">14.照片</a></h2></li>
-		<br><li> <h1><a href="#" target="_blank">站外网站推荐</a></h1></li><br>
+		<br><li><h1> <a href="#"></a> 站外网站推荐</h1></li><br>
 		<li> <h2 align="center"><a href="https://ygdy8.com" target="_blank">电影天堂（广告有亿点多，但是可以下载电影）</a></h2></li>
 	  <li><h2 align="center"><a href="https://wannengrun.net/zh/" target="_blank">万能命令</a></h2></li>
 	  <li><h2 align="center"><a href="https://http://listen1.github.io/listen1/" target="_blank">Listen 1 音乐播放器</a></h2></li>
