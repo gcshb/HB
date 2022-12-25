@@ -13,19 +13,18 @@
 	
 		 <ul id="myUL">
 		 <li><h1><a href="#"></a>站内网站</h1> </li><br>	 
-	  <li><h2 align="center"><a href="https://gcshb.github.io/gtxy" target="_blank">1.古田初中校园网</a></h2></li>
-	  <li><h2 align="center"><a href="https://gcshb.github.io/sj" target="_blank">2.我的第一个js程序</a></h2></li>
-	  <li><h2 align="center"><a href="https://gcshb.github.io/nian" target="_blank">3.年龄计算器</a></h2></li>
-	  <li><h2 align="center"><a href="https://gcshb.github.io/bbq" target="_blank">4.表白墙</a></h2></li>
-	  <li><h2 align="center"><a href="https://gcshb.github.io/wzq" target="_blank">5.五子棋</a></h2></li>
-	  <li><h2 align="center"><a href="https://gcshb.github.io/js" target="_blank">6.js粒子效果</a></h2></li>
-	  <li><h2 align="center"><a href="https://gcshb.github.io/cs" target="_blank">7.测试设备性能</a></h2></li>
-	  <li><h2 align="center"><a href="https://gcshb.github.io/cl" target="_blank">8.扫雷</a></h2></li>
-	  <li><h2 align="center"><a href="https://gcshb.github.io/tj" target="_blank">9.旋转太极</a></h2></li>
+	 
+	  <li><h2 align="center"><a href="https://gcshb.github.io/nian" target="_blank">1.年龄计算器</a></h2></li>
+	  
+	  <li><h2 align="center"><a href="https://gcshb.github.io/wzq" target="_blank">.五子棋</a></h2></li>
+	  <li><h2 align="center"><a href="https://gcshb.github.io/js" target="_blank">.js粒子效果</a></h2></li>
+	  <li><h2 align="center"><a href="https://gcshb.github.io/cs" target="_blank">.测试设备性能</a></h2></li>
+	  <li><h2 align="center"><a href="https://gcshb.github.io/cl" target="_blank">扫雷</a></h2></li>
+	  <li><h2 align="center"><a href="https://gcshb.github.io/tj" target="_blank">旋转太极</a></h2></li>
 	  <li><h2 align="center"><a href="https://user-images.githubusercontent.com/119094998/208632249-1b2dab70-0da2-40df-90db-dac550b7238b.jpg" target="_blank">10.照片</a></h2></li>
-	  <li><h2 align="center"><a href="https://gcshb.github.io/mf" target="_blank">11.魔方</a></h2></li>
-	  <li><h2 align="center"><a href="https://gcshb.github.io/ltxt" target="_blank">12.聊天系统（初代草图）</a></h2></li>
-	  <li><h2 align="center"><a href="https://gcshb.github.io/jsq" target="_blank">13.计算器</a></h2></li>
+	  <li><h2 align="center"><a href="https://gcshb.github.io/mf" target="_blank">魔方</a></h2></li>
+
+	  <li><h2 align="center"><a href="https://gcshb.github.io/jsq" target="_blank">计算器</a></h2></li>
 	 <li><h2 align="center"><a href="https://user-images.githubusercontent.com/119094998/208670220-5248b1f2-d3fe-4bac-8fd8-6a947f49a9eb.jpg" target="_blank">14.照片</a></h2></li>
 		<br><li><h1> <a href="#"></a> 站外网站推荐</h1></li><br>
 		<li> <h2 align="center"><a href="https://ygdy8.com" target="_blank">电影天堂（广告有亿点多，但是可以下载电影）</a></h2></li>
